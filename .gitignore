@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+.streamlit/secrets.toml
+.ipynb_checkpoints/
+data/raw/*
+!data/raw/.gitkeep
+artifacts/*.joblib
+artifacts/model_metadata.json
